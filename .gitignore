@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.dll
+*.pyd
+*.so
+*.exe
+*.zip
